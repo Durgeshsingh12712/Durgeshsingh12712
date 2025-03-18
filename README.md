@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Durgesh Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshsingh12712&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshsingh12712" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgeshsingh12712" alt="durgeshsingh12712" /></a> </p>
+<h3 aling="center">I have technical experience and interest in:</h3>
+<p>1. Python Mastery </p>
+<p>2. Machine Learning</p>
+<p>3. Deep Learning</p>
+<p>4. Computer Vision</p>
+<p>5. Natural Language Processing</p>
+<p>6. MLops</p>
+<p>7. Generative AI</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Durgeshsingh12712?tab=repositories](https://github.com/Durgeshsingh12712?tab=repositories)
 
@@ -19,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshsingh12712&show_icons=true&locale=en&layout=compact" alt="durgeshsingh12712" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsingh12712&show_icons=true&locale=en" alt="durgeshsingh12712" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshsingh12712&" alt="durgeshsingh12712" /></p>
