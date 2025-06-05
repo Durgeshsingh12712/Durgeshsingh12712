@@ -154,8 +154,8 @@ mindmap
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Durgeshsingh12712&repo=your-top-repo-1&theme=tokyonight&hide_border=true)](https://github.com/Durgeshsingh12712/your-top-repo-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Durgeshsingh12712&repo=your-top-repo-2&theme=tokyonight&hide_border=true)](https://github.com/Durgeshsingh12712/your-top-repo-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Durgeshsingh12712&repo=your-top-repo-1&theme=tokyonight&hide_border=true)](https://github.com/Durgeshsingh12712/End-to-End-Book-Recommanded-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Durgeshsingh12712&repo=your-top-repo-2&theme=tokyonight&hide_border=true)](https://github.com/Durgeshsingh12712/End-to-End-Network-Security-For_Phising-Project)
 
 </div>
 
