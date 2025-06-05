@@ -154,8 +154,13 @@ mindmap
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Durgeshsingh12712&repo=your-top-repo-1&theme=tokyonight&hide_border=true)](https://github.com/Durgeshsingh12712/End-to-End-Book-Recommanded-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Durgeshsingh12712&repo=your-top-repo-2&theme=tokyonight&hide_border=true)](https://github.com/Durgeshsingh12712/End-to-End-Network-Security-For_Phising-Project)
+| 🤖 **AI & Machine Learning** | 🔍 **Computer Vision** | 📊 **Data Science** |
+|:---:|:---:|:---:|
+| ![ML](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=python&logoColor=white) | ![CV](https://img.shields.io/badge/Computer%20Vision-4ECDC4?style=for-the-badge&logo=opencv&logoColor=white) | ![DS](https://img.shields.io/badge/Data%20Science-45B7D1?style=for-the-badge&logo=pandas&logoColor=white) |
+| Advanced ML algorithms<br/>& model optimization | Image processing<br/>& object detection | Statistical analysis<br/>& visualization |
+
+### 🚀 **Explore My Work**
+[![GitHub](https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Durgeshsingh12712?tab=repositories)
 
 </div>
 
